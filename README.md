@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank
 - 👀 I’m interested in computers, data, mathematics and science.
-- 🌱 I’m currently learning NLP
+- 🌱 I’m working on source separation and sound event detection for multichannel inputs.
 - 📫 How to reach me: please email on mishra.mayank1903@gmail.com
 
 <!---
